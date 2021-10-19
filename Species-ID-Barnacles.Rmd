@@ -1,0 +1,283 @@
+---
+title: 'Species ID Guide: Barnacles'
+author: "Carys Hughes"
+date: "10/16/2021"
+output:
+  pdf_document:
+    includes:
+      in_header: file.tex
+  html_document:
+    df_print: paged
+---
+
+\newpage
+
+# *Balanus glandula*  
+**Common name: acorn barnacle**
+
+## Description
+
+**Distinguishing Characteristics**  
+*Balanus glandula* can grow up to 2 cm tall and wide, and are often relatively equal in height and width (Harbo, 2011; Kozloff, 1983). These barnacles are smooth and usually take on a grayish white colour, when not covered in diatoms (Kozloff, 1983). The inner lining of their plates appears a jet black colour (Harbo, 2011). When not feeding, the two larger plates and the two smaller plates meet to form a curvy/zigzag line (Kozloff, 1983). The acorn barnacle is the most ubiquitous barnacle on the shores of the Pacific NorthWest, and tends to grow in the mid to upper reaches of the rocky intertidal (Kozloff, 1983). These barnacles are adaptable in their shape. When crowded for space, they grow tall and thin, but when not they are volcano shaped. In Scott’s Bay we collected tacorn barnacles with an average height of 3.93 mm and an average diameter of 7.03 mm (Supplementary Information).  
+
+
+**Look-alike Species**  
+Acorn barnacles (*B. glandula*) and small acorn barnacles (*Chthamalus dalli*) are similar in appearance except for the noticeable size difference as acorn can grow up to 22 mm in diameter while the small acorn barnacle will only reach 8 mm in diameter. *B. glandula* is also whiter in colour and has a diamond-shaped operculum compared to the oval *C. dalli* (Fretwell & Starzomski, 2014).  
+
+**Current Geographic Distribution and Habitat Preferences**  
+*B. glandula* inhabits coastline from the Aleutian islands to Mexico and can grow on rocks, animals with shells, and docks (Harbo, 2011). In the rocky intertidal, the acorn barnacle tends to inhabit the upper and mid intertidal zone. Its growth in the low intertidal is mostly restricted by its predators like Nucella sp. snails and barnacle nudibranchs (Harbo, 2011; Kozloff, 1983).  
+
+**Trophic Role**  
+Barnacles are suspension feeders that use their feather-like feeding appendages (cirri) to comb the water for microscopic food particles (Kozloff, 1983). Acorn barnacles are consumed by predators like Nucella sp. snails and barnacle nudibranchs (Harbo, 2011; Kozloff, 1983).  
+
+**Reproductive Mode**  
+The acorn barnacle reproduces through a larval stage, called nauplius, which has a similar morphology to nauplius in other groups of crustaceans (Fretwell & Starzomski, 2014). The larva will molt several times and then develop into a cypris stage, which settles on the substrate and grows into an adult barnacle. Individuals can live for 7 years (Kozloff, 1983).  
+
+
+\newpage 
+
+## Figures
+
+```{r acorn-crowded-uncrowded, fig.align = 'left', out.width = "50%", out.height = "30%", fig.cap = "A. Crowded acorn barnacles; shape is narrow and tall. (Lauren Gill) B. Uncrowded acorn barnacles; volcano shaped. (Lauren Gill)", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "acorn-crowded-uncrowded.png"))
+```
+
+```{r acorn-capitulum, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "A. Capitulum of a generic balanomorph barnacle. (Beth Blanchette) B. Capitulum of an acorn barnacle. (Beth Blanchette)", echo=FALSE}
+knitr::include_graphics(here::here("images", "acorn-capitulum.png"))
+```
+
+```{r southern-right-whale-skull-lateral, fig.align = 'left', out.width = "50%", out.height = "30%",fig.cap = "A. Acorn barnacles have M-shaped sutures formed by their terga and scuta. (Beth Blanchette) B. Small acorn barnacles have a straight suture. (Beth Blanchette)", echo=FALSE}
+knitr::include_graphics(here::here("images", "acorn-sutures.png"))
+```
+
+## Questions for Identifying this Species
+1. Is there a distinct zigzag along the midline where the plates meet on top of the barnacle?  
+2. Is the barnacle white/whitish-grey on the outside shell with a black inner lining?  
+3. Is the operculum diamond shaped?  
+
+
+\newpage 
+
+# *Chthamalus dalli*  
+**Common names: Small acorn barnacle, buckshot barnacle, brown buckshot barnacle, or little brown barnacle**
+
+## Description
+
+**Distinguishing Characteristics**  
+*Chthamalus dalli* is one of the smaller species of barnacles along Pacific NorthWest coastlines (*Chthamalus/Balanus* | *MARINe*, n.d.). They can grow up to 8 mm in diameter and have a brown-grey, smooth shell. Small acorn barnacles can grow densely - up to 8,000 per square foot (Kozloff, 1983)! They tend to grow in the high intertidal zone (Kozloff, 1983). When predatory pressure is high, C. dalli sometimes grows a slight curve to their shell which helps to protect themselves (Kozloff, 1983). This is known to be a rare occurrence.  In Scott’s Bay we collected small acorn barnacles with an average height of <1 mm and an average diameter of 3.50 mm (Supplementary Information).  
+
+
+**Look-alike Species**  
+*C. dalli* may appear similar to Balanus glandula, the acorn barnacle, but is significantly smaller in size and has an oval shaped operculum, whereas *B. glandula* is much larger and has a diamond shaped operculum (*Chthamalus/Balanus* | *MARINe*, n.d.). *C. dalli* is also appears similar to a closely related species of barnacle called *Chthamalus fissus* (not covered in this ID guide), but *C. fissus* only grows from San Francisco, CA to Baja California (*Chthamalus/Balanus* | *MARINe*, n.d.). To tell these species apart you need a microscope and some barnacle expertise, as they are virtually indistinguishable.   
+
+**Current Geographic Distribution and Habitat Preferences**  
+*C. dalli* inhabits the high and upper-middle intertidal zone, and often lives in places that get wet only by wave splash (Fretwell & Starzomski, 2014). Its small size helps prevent dessication, so it can typically live higher on the shore than other species of barnacle (Kozloff, 1983). The small acorn barnacle inhabits coastlines from San Diego, California to Alaska and can grow on rocks, animals with shells, and docks (*Chthamalus/Balanus* | *MARINe*, n.d.).  
+
+**Trophic Role**  
+*C. dalli* is a suspension and filter feeder,  consuming microplankton and detritus caught in the water column by its fan-like cirri. The barnacle is itself consumed by predatory snails such as *Nucella ostrina* and sea stars including Leptasterias (Bustamante and Concha-Fernández, 2011).  
+
+**Reproductive Mode**  
+*C. dalli* adults are hermaphroditic and have internal fertilization. They reproduce several times each year, having a maximum brood size of 12 000 eggs which are subsequently released in the form of planktonic larvae into the water. The broods can remain within a barnacle for as long as six months. The larvae go through several developmental stages before settling onto the substrate (Hines, 1978). Additionally, the *C. dalli* is sometimes parasitized by the isopod *Cryptothir balani* that inhibits its reproduction (Cowles, 2018).  
+
+
+
+\newpage 
+
+## Figures
+
+```{r small-acorn-dense, fig.align = 'centered', out.width = "50%", out.height = "30%", fig.cap = "Small acorn barnacles are up to 8 mm diameter, brown-grey, and often grow densely on rocks. (Beth Blanchette)", echo=FALSE}
+knitr::include_graphics(here::here("images", "small-acorn-dense.jpg"))
+```
+
+```{r small-acorn-and-acorn, fig.align = 'centered', out.width = "50%", out.height = "30%", fig.cap = "Small acorn barnacles growing alongside acorn barnacles. Small acorn barnacles can be distinguished by their smoother, smaller shape and brown-grey colour. (Beth Blanchette)", echo=FALSE}
+knitr::include_graphics(here::here("images", "small-acorn-and-acorn.jpg"))
+```
+
+## Questions for Identifying this Species
+
+1. Is the shell brown/dark grey in colour and smooth? (As opposed to white/light grey like other similar species)  
+2. Is the barnacle noticeably very small (under 8 mm in diameter and very short in stature)? 
+3. Is the operculum (opening of the shell) oval shaped? 
+
+\newpage
+
+# *Semibalanus cariosus*  
+**Common name: Thatched barnacle**  
+**Synonym: *Balanus cariosus***
+
+## Description
+
+**Distinguishing Characteristics**  
+*Semibalanus cariosus* is made up of six wall plates (Hiebert, 2015). These plates have a vertical ribbing pattern that flares out at the bottom, producing thatch-like protrusions. This distinct characteristic is more pronounced in younger barnacles as the protrusions can wear away by waves or rubbing with other barnacles (White, Fretwell & Starzomski, 2014). A variation of colour such as white, grey, brown, and green can also occur (White, Fretwell & Starzomski, 2014). The wall plate thickness and shape vary depending on how populated the area is. Thatched barnacles are conical with thick walls when isolated and cylindrical and thinner when in populated areas. The size of these barnacles can further differ depending on the location they are found. In crowded areas, thatched barnacles grow taller with some reaching a height of 5 cm (White, Fretwell & Starzomski, 2014). Others can be found in a less populated area and have a greater diameter of 6 cm but a shorter height. In Scott’s Bay we collected thatched barnacles with an average height of 1.88 cm (18.76 mm) and an average diameter of 1.66 cm (16.56 mm) (Supplementary Information).  
+
+
+**Look-alike Species**  
+*S. cariosus* is often mistakenly identified as *Balanus glandula* (Hiebert, 2015); however, a distinguishing characteristic is the absence of dark spots on the scutum (Cowles, 2006). The scutum of the acorn barnacle also differs by lacking an adductor ridge. Additionally, the thatched barnacle has a less calcified base than other sessile barnacles. If this barnacle is removed from its hard substratum, a thin layer of the base and tissue will remain secured to the rock.  
+
+**Current Geographic Distribution and Habitat Preferences**  
+These barnacles have a wide geographical range from Alaska down to southern California (White, Fretwell & Starzomski, 2014). They have a habitat preference of mid intertidal to shallow subtidal sites on exposed and semi-protected shorelines (MARINe, 2021). However, it is most commonly found in the low intertidal underneath a band of  *Balanus glandula*.  
+
+
+**Trophic Role**  
+*S. cariosus* have an optimal feeding temperature of 15- 20 °C (Hiebert, 2015) where they filter or suspension feed using their six pairs of feeding appendages known as cirri. These barnacles are secondary consumers as they feed on primary consumers such as plankton and other microorganisms. They also feed on dead particulate matter that is strained by the cirri. This barnacle species is then preyed on by sea stars, whelks, snails, and birds.  
+
+
+**Reproductive Mode**  
+*S. cariosus* reproduces by brooding eggs in the winter for the larvae to settle near adult barnacles in the spring (Cowles, 2006). A pheromone is released by the parent barnacle stimulating the larva to hatch. They undergo several molts which is the shedding of the old exoskeleton while the new one is made. The larva continues to grow into an adult barnacle.  
+
+
+\newpage 
+
+## Figures
+
+```{r thatched-drawing, fig.align = 'centered', out.width = "50%", out.height = "30%", fig.cap = "A. Drawing of a thatched barnacle (Carys Hughes). B. Thatched barnacles with distinctive finger-like protrusions. (Beth Blanchette)", echo=FALSE}
+knitr::include_graphics(here::here("images", "thatched-drawing.png"))
+```
+
+```{r thatched-spot-absent, fig.align = 'centered', out.width = "50%", out.height = "30%", fig.cap = "A. Acorn barnacles have a distinctive dark spot on their scutum. 9Beth Blanchette) B. Thatched barnacles can be distinguished by the absence of a dark spot.(Kelly Fretwell)", echo=FALSE}
+knitr::include_graphics(here::here("images", "thatched-spot-absent.png"))
+```
+
+```{r thatched-spot, fig.align = 'centered', out.width = "50%", out.height = "30%", fig.cap = "When thatched barnacles are removed from their substratum, they leave behind a layer of soft tissue.", echo=FALSE}
+knitr::include_graphics(here::here("images", "thatched-spot.jpg"))
+```
+
+## Questions for Identifying this Species
+
+1. Are the plates composed of a vertical ribbing pattern with protrusions near the base of the barnacle?  
+2. If removed from a rock, does it leave behind a part of the base and some of its soft tissue?  
+3. To further distinguish between the acorn barnacle, is there a lack of dark spots on the scutum?  
+
+
+\newpage
+
+# *Pollicipes polymerus*  
+**Common names: Goose neck barnacle, goose barnacle, or leaf barnacle**  
+**Synonym: *Mitella polymerus***
+
+## Description
+
+**Distinguishing Characteristics**  
+*Pollicipes polymerus* is composed of a stalk (peduncle) that attaches to the substrate and can measure up to 15 cm in length, and of a body (capitulum) at the end of the stalk that can grow up to 4.5 cm in length. It can be differentiated from other barnacles by its characteristic protective plates. The five large and numerous small plates are whitish in colour and located on the body of the barnacle (Brietzke et al. 2013). The flesh of *P. polymerus* is commonly dark brown in colour, although the Nakwakto variety bears a bright red flesh. Found in Nakwakto Rapids (Slingsby Channel, BC), this subtidal variety lacks the black pigment that protects the common variety from UV ray exposure, letting the red colour from the hemoglobin in the subtidal barnacle’s blood show (Murphy, 2011). In Scott’s Bay we collected thatched barnacles with an average height of 8.09 mm and an average diameter of 11.40 mm (Supplementary Information).  
+
+
+**Look-alike Species**  
+*Lepas anatifera* is a pelagic barnacle resembling *P. polymerus* that can be found washed up on driftwood or other pelagic debris of the Pacific Northwest while *P. polymerus* lives in the intertidal zone. Another distinguishing feature is that *P. plymerus* has more than 10 plates on its capitulum, while *L. anatifera* has less than 10 plates (McFadden et al., 2002).  
+
+*Pollicipes pollicipes* is a barnacle closely related and of similar morphology to P. polymerus, but is found in Europe (McFadden et al., 2002).
+
+
+**Current Geographic Distribution and Habitat Preferences**  
+*P. polymerus* ranges from Southeast Alaska to Baja California (McFadden et al., 2002), although it can also be found sporadically as far as Punta Santo Domingo, Mexico (Lauzier, 1999). It lives in high to mid intertidal zones in open coastlines but has also been found growing on other barnacles on the skin of Humpback Whales (McFadden et al., 2002).  
+
+
+**Trophic Role**  
+*P. polymerus* is a sessile omnivorous suspension feeder that obtains its food by extending its fan-like cirri upwards in the water column, perpendicularly to wave action. Planktonic material such as small crustaceans and detritus get caught in the cirri and get consumed. The barnacle species is then itself consumed by higher trophic predators such as the sea star Pisaster ochraceus and the Glaucus-winged Gull Larus glaucescens(McFadden et al., 2002).  
+
+
+**Reproductive Mode**  
+Individuals of this species are all hermaphroditic and cross-fertilize through pseudo-copulation and sperm acquisition from the water (Barazandeh et al., 2013). In the Pacific Northwest, reproduction happens from April to October with a peak in July. Four environmental variables are thought to control the breeding time of *P. polymerus*: day length, and air, surface, and subsurface water temperature. Once individuals reach sexual maturity, at about one year of age, they can produce as many as four broods each year, with 20 000 embryos per brood that attach at the base of the parental barnacles (Lewis and Chia, 1980).   
+
+
+
+\newpage 
+
+## Figures
+
+```{r goose-anatomy, fig.align = 'centered', out.width = "50%", out.height = "30%", fig.cap = "A. Body plan of a generalized pedunculate barnacle. (Beth Blanchette) B. Body plan of the gooseneck barnacle. (Beth Blanchette)", echo=FALSE}
+knitr::include_graphics(here::here("images", "goose-anatomy.png"))
+```
+
+```{r goose-plates, fig.align = 'centered', out.width = "50%", out.height = "30%", fig.cap = "A. Capitulum plates of a generalized pedunculate barnacle. (Beth Blanchette) B. Capitulum plates of the gooseneck barnacle. (Lauren Gill)", echo=FALSE}
+knitr::include_graphics(here::here("images", "goose-plates.png"))
+```
+
+## Questions for Identifying this Species
+
+1. Does it have a leathery fleshy stalk (peduncle)?
+2. Does it have five large plates on its body (capitulum)?
+3. Is the carina (most posterior large plate) lacking spines?  
+
+
+
+\newpage
+
+
+# Supplemental Information
+
+```{r, message = FALSE, echo = FALSE, warning = FALSE}
+library(tidyverse)
+library(here)
+```
+
+## Barnacle Measurements
+
+## Barnacle Morphology, Life History, and Ecology
+```{r, message = FALSE, echo = FALSE}
+knitr::include_graphics(here::here("images", "Barnacle Table.png"))
+```
+
+
+```{r, results= FALSE, echo = FALSE}
+library(ggplot2)
+
+barnacle <- read.csv("./data/Barnacle-measurements.csv")
+na.omit(barnacle)
+barnacle1 <- barnacle[-c(41,42), ]
+```
+
+```{r, message = FALSE, echo = FALSE}
+barnacles_means <- barnacle %>%
+  group_by (Species) %>%
+  summarize(mean_height_mm = mean (Height), mean_diameter_mm = mean (Diameter))
+```
+
+\newpage
+
+```{r, echo = FALSE, fig.cap= "Figure 1. Diameters the four species of barnacles collected at Scott's Bay, Vancouver Island.", message = FALSE, out.width = "50%", out.height = "50%"}
+
+barnaclegraphdiameter <- ggplot(barnacle1, aes(x=Species, y=Diameter)) + geom_boxplot() + theme_classic()+
+  scale_y_continuous(breaks = scales::pretty_breaks(n = 10)) + ylab("Diameter (mm)")
+barnaclegraphdiameter
+```
+
+```{r, echo = FALSE, fig.cap= "Figure 2. Heights of the fours species of barnacles collected at Scott's Bay, Vancouver Island. Small acorn barnacle heights were all under 2 mm and difficult to distinguish using calipers.", message = FALSE, out.width = "50%", out.height = "50%"}
+barnaclegraphheight<- ggplot(barnacle1, aes(x=Species, y=Height)) + geom_boxplot() + theme_classic()+
+  scale_y_continuous(breaks = scales::pretty_breaks(n = 10)) + ylab("Height (mm)")
+barnaclegraphheight
+```
+
+\newpage
+
+## References
+
+Barazandeh, M., Davis, C. S., Neufeld, C. J., Coltman, D. W., Palmer, A. R. (2013). *Something Darwin didn't know about barnacles: spermcast mating in a common stalked species.* The Royal Society. 280.  
+
+Brietzke, C.,  Fretwell, K., & Starzomski, K. (2013). *Gooseneck barnacle , Pollipes polymerus - Biodiversity of the Central Coast.* https://www.centralcoastbiodiversity.org/goose-neck-barnacle-bull-pollicipes-polymerus.html  
+
+Bustamante, A., Concha-Fernández, P. (2011). *Chthamalus dalli - Race Rocks Taxonomy.* https://racerocks.ca/racerock/taxalab2/2011/chthamalusd/chthamalusd.html  
+
+Butler, B. A., & Hiebert, T. C. (2015). *Corbicula fluminea. In: Oregon Estuarine Invertebrates: Rudys’ Illustrated Guide to Common Species.*  
+
+Cowles, D. (2018). *Chthamalus dalli Pilsbry, 1916. Walla Walla University.* https://inverts.wallawalla.edu/Arthropoda/Crustacea/Maxillopoda/Cirripedia/Chthamalus_dalli.html  
+
+Cowles, D. (2006). *Semibalanus cariosus.* https://inverts.wallawalla.edu/Arthropoda/Crustacea/Maxillopoda/Cirripedia/Semibalanus_cariosus.html  
+
+Fretwell, K., & Starzomski, B. (2014). *Acorn barnacle , Balanus glandula - Biodiversity of the Central Coast.* https://www.centralcoastbiodiversity.org/acorn-barnacle-bull-balanus-glandula.html  
+
+Harbo, R. M. (2011). *Whelks to whales: coastal marine life of the Pacific Northwest.* 328.  
+
+Hines, A. H. (1978). *Reproduction in three species of intertidal barnacles from central California.* Biological Bulletin, 154: 262-281.
+
+Kozloff, E. N. (1983). *Seashore life of the northern Pacific coast: an illustrated guide to northern California, Oregon, Washington, and British Columbia.* 370.
+
+Lauzier, R. B. (1999). *A review of the biology and fisheries of the Goose Barnacle (Pollicipes polymerus, Sowerby 1833).* Canadian stock assessment secretariat.
+
+McFadden , M., Helmstetler H., Cowles D. (2002). *Pollicipes polymerus(Sowerby, 1833).* https://inverts.wallawalla.edu/Arthropoda/Crustacea/Maxillopoda/Cirripedia/Pollicipes_polymerus.html 
+
+Murphy, R. (2011). *Pollipes polymerus - Race Rocks Taxonomy.* https://racerocks.ca/racerock/taxalab2/2011/gooseneck/pollicipes.htm 
+
+*Semibalanus | Multi- Agency Rocky Intertidal Network MARINe.* (n.d.). (2021, May 5). Retrieved October 16, 2021, from https://marine.ucsc.edu/target/target-species-chthamalus-balanus.html 
+ 
+White, J., Fretwell, K., & Starzomski, B. (2014). *Thatched barnacle, Semibalanus cariosus - Biodiversity of the Central Coast.* https://www.centralcoastbiodiversity.org/thatched-barnacle-bull-semibalanus-cariosus.html 
+

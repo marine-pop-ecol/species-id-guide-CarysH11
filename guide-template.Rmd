@@ -1,12 +1,40 @@
 ---
 title: "Species ID Guide Template"
-author: "Cole Brookson"
-date: "10/13/2021"
+author: "Carys Hughes"
+date: "10/17/2021"
 output:
     pdf_document:
         includes:
             in_header: file.tex
 ---
+```{r}
+library(kableExtra)
+library(knitr)
+library(tidyverse)
+library(here)
+library(tinytex)
+
+barnacle_info_table = read_csv(here("./data/barnacle_info_table.csv"))
+barnacle_info_table = data.frame(barnacle_info_table)
+
+# write custom function to display the table how we want
+ knit_table = function(df){
+     df = data.frame(lapply(df, function(x) {gsub("<br>", "\n", x)}), stringsAsFactors = F)
+ 
+       df %>% 
+     dplyr::mutate_all(linebreak) %>% 
+     kableExtra::kable("latex", 
+           booktabs = TRUE, 
+           escape = FALSE, 
+           longtable = FALSE) %>% 
+     kableExtra::kable_styling(latex_options = "scale_down", 
+                   full_width = FALSE)  %>% 
+     column_spec(1, width = "5em") %>% 
+     column_spec(2, width = "5em")
+ }
+ knit_table(barnacle_info_table)
+```
+
 
 \newpage
 
